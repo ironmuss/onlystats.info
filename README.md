@@ -1,3 +1,9 @@
-# Power BI - Example Report via HTML website hosting on github
+# Power BI - Example Workforce Time Entries Report
 
-I've created this website to share with potential recruiters, to showcase some basic report capabilities with Microsoft Power BI
+I'm doing some freelance work, the client has asked me to automate some of the business reports. This is a Power BI dashboard I made using a sample set of their data.
+
+I've removed any sensitive employee information. 
+
+The website is hosted on GitHub and the dashboard is hosted on the Microsoft Power BI servers.
+
+https://ironmuss.github.io/workforce_analysis/
