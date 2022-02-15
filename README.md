@@ -1,6 +1,6 @@
 # Power BI - Example Workforce Time Entries Report
 
-I'm doing some freelance work, the client has asked me to automate some of the business reports. This is a Power BI dashboard I made using a sample set of their data.
+I'm doing some freelance work, the client has asked me to automate some of the business reports. This is a Power BI dashboard I made using a sample of their dataset.
 
 I've removed any sensitive employee information. 
 
