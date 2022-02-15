@@ -7,3 +7,5 @@ I've removed any sensitive employee information.
 The website is hosted on GitHub and the dashboard is hosted on the Microsoft Power BI servers.
 
 https://ironmuss.github.io/workforce_analysis/
+
+Note: If the dashboard isn't available, I may have recently made a change which would take 10-15 mins to re-sync on server.
